@@ -1,2 +1,5 @@
 jupyter
 torch
+torchvision
+matplotlib
+tensorflow
